@@ -1,14 +1,12 @@
 <h2> Hi there! <br>I'm Angelina </h2>
 
-Freelance Software Developer for Flutter
-
 ### 💪 : About Me :
-- Flutter developer 👩‍💻
-- 3 years experience 🥉
+- Software Developer for Flutter 👩‍💻
+- 4 years experience 🥉
 - 30+ Flutter projects 🧗‍♀️
 - Freelancer 🍏
 
 ### 💪 : Contacts :
 - telegram: @pandaMob
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rustdeskP)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asg1997)](https://github.com/anuraghazra/github-readme-stats)
