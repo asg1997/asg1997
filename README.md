@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Angelina
-#### I am freelance software developer for Flutter
-![I am freelance software developer for Flutter]([https://images.unsplash.com/photo-1564865878688-9a244444042a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://github.com/asg1997/asg1997/blob/main/av-2.jpg?raw=true))
+#### I am freelance Middle Flutter developer 
+![I am freelance software developer for Flutter](https://github.com/asg1997/asg1997/blob/main/av-2.jpg?raw=true)
 
-4️⃣ I have 4 years of experience in commercial mobile application development. 
+4️⃣ I have 4 years of experience in commercial mobile application development <br>(1 year iOS + 3 years Flutter). 
 🧗 I've done 20+ projects on Flutter. 
 
 I was a Swift developer in the past. 
