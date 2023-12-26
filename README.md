@@ -2,7 +2,7 @@
 <h2> I am freelance Middle Flutter developer </h2>
 
 <p align="center">
-  <img src="av-2.jpeg" width="350" title="avatar">
+  <img src="av-2.jpg" width="350" title="avatar">
 </p>
 
 
