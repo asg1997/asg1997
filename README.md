@@ -6,10 +6,18 @@
 </p>
 
 
-4️⃣ 4 years experience <br>(3yrs - Flutter + iOS - 1yr). <br>
-🧗 I've done 20+ projects on Flutter. 
+👩‍💻 3 yrs of Flutter experience (3yrs - Flutter + iOS - 1yr). <br>
+📱 1 yr of iOS/Swift
+🧗 20+ projects on Flutter
 
-I was a Swift developer in the past. 
+I prefer working with:
+✓ riverpod
+✓ go router
+✓ auto router
+✓ freezed
+✓ json serializable
+✓ mockito / mocktail
+✓ clean architecture
 
 I am currently exploring approaches that will allow me <br>to create high-quality applications that will <br>help businesses make more profit with less cost.
 
