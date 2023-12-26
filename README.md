@@ -1,4 +1,6 @@
-<h2> Hi there! <br>I'm Angelina 😁 </h2>
+<h2> Hi there! <br>I'm Angelina </h2>
+
+Freelance Software Developer for Flutter
 
 ### 💪 : About Me :
 - Flutter developer 👩‍💻
