@@ -11,13 +11,13 @@
 🧗 20+ projects on Flutter
 
 I prefer working with:
-✓ riverpod
-✓ go router
-✓ auto router
-✓ freezed
-✓ json serializable
-✓ mockito / mocktail
-✓ clean architecture
+<br>✓ riverpod
+<br>✓ go router
+<br>✓ auto router
+<br>✓ freezed
+<br>✓ json serializable
+<br>✓ mockito / mocktail
+<br>✓ clean architecture
 
 I am currently exploring approaches that will allow me <br>to create high-quality applications that will <br>help businesses make more profit with less cost.
 
