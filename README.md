@@ -1,12 +1,6 @@
 <h1> Hi there 👋, My name is Angelina </h1>
 <h2> I am freelance Middle Flutter developer </h2>
 
-<p align="center">
-  <img src="av-2.jpg" height="500" title="avatar">
-</p>
-
-<br>
-
 <h3>About me</h3>
   👱‍♀️ 3 yrs of Flutter experience
   📱 1 yr of iOS/Swift <br>
@@ -45,8 +39,6 @@ FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 
 <h1> Привет 👋, меня зовут Ангелина </h1>
 <h2> Я являюсь Middle Flutter разработчиком </h2>
-
-<br>
 
 <h3>Обо мне</h3>
   👱‍♀️ 3 года пишу на Flutter 
