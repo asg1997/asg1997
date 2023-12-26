@@ -6,7 +6,7 @@
 </p>
 
 
-4️⃣ I have 4 years of experience in commercial mobile application development <br>(1 year iOS + 3 years Flutter). 
+4️⃣ I have 4 years of experience in commercial mobile application development <br>(1 year iOS + 3 years Flutter). <br>
 🧗 I've done 20+ projects on Flutter. 
 
 I was a Swift developer in the past. 
