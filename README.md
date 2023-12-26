@@ -9,4 +9,4 @@
 ### 💪 : Contacts :
 - telegram: @pandaMob
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asg1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asg1997)](https://git.io/streak-stats)
