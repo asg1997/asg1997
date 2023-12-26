@@ -7,8 +7,8 @@
 
 
 👩‍💻 3 yrs of Flutter experience (3yrs - Flutter + iOS - 1yr). <br>
-📱 1 yr of iOS/Swift
-🧗 20+ projects on Flutter
+📱 1 yr of iOS/Swift<br>
+🧗 20+ projects on Flutter<br>
 
 I prefer working with:
 <ul role="list">
