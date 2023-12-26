@@ -14,15 +14,13 @@
 
 
 I prefer working with:
-<ul role="list">
-  <li style = "list-style-type="✔️"">riverpod</li>
-  <li data-icon="✔️">go router</li>
-  <li data-icon="✔️">auto router</li>
-  <li data-icon="✔️">freezed</li>
-  <li data-icon="✔️">json serializable</li>
-  <li data-icon="✔️">mockito / mocktail</li>
-  <li data-icon="✔️">clean architecture</li>
-</ul>
+✔️ riverpod <br>
+  ✔️ go router <br>
+  ✔️ auto router <br>
+  ✔️ freezed <br>
+  ✔️ json serializable <br>
+  ✔️ mockito / mocktail <br>
+  ✔️ clean architecture <br>
 
 🔭 I am focused on creating high-quality apps that would bring more profit to the business but would also be inexpensive
 
