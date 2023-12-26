@@ -23,7 +23,7 @@
   ✔️ json serializable <br>
   ✔️ mockito / mocktail <br>
   ✔️ clean architecture <br>
-
+<br>
 🔭 I am focused on creating high-quality apps that would bring more profit to the business but would also be inexpensive
 
 <h3>Skills</h3>
