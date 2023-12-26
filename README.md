@@ -11,15 +11,17 @@
 🧗 20+ projects on Flutter
 
 I prefer working with:
-<br>✓ riverpod
-<br>✓ go router
-<br>✓ auto router
-<br>✓ freezed
-<br>✓ json serializable
-<br>✓ mockito / mocktail
-<br>✓ clean architecture
+<ul role="list">
+  <li data-icon="✔️">riverpod</li>
+  <li data-icon="✔️">go router</li>
+  <li data-icon="✔️">auto router</li>
+  <li data-icon="✔️">freezed</li>
+  <li data-icon="✔️">json serializable</li>
+  <li data-icon="✔️">mockito / mocktail</li>
+  <li data-icon="✔️">clean architecture</li>
+</ul>
 
-I am currently exploring approaches that will allow me <br>to create high-quality applications that will <br>help businesses make more profit with less cost.
+🔭 I am focused on creating high-quality apps that would bring more profit to the business but would also be inexpensive
 
  Skills: FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 
