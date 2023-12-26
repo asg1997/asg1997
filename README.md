@@ -6,11 +6,12 @@
 </p>
 
 <br>
-<ul role="list">
-  <li list-style-type="👩‍💻">3 yrs of Flutter experience (3yrs - Flutter + iOS - 1yr). </li>
-  <li data-icon="📱">1 yr of iOS/Swift</li>
-  <li data-icon="🧗">20+ projects on Flutter</li>  
-</ul>
+
+  👩‍💻 3 yrs of Flutter experience <br>
+  📱 1 yr of iOS/Swift <br>
+  🧗 20+ projects on Flutter <br>
+  📙 Uncle Bob fan <br>
+  📚 Constantly learning new <br>
 
 
 I prefer working with:
