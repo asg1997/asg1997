@@ -7,6 +7,7 @@
 
 <br>
 
+<h3>About me</h3>
   👱‍♀️ 3 yrs of Flutter experience
   📱 1 yr of iOS/Swift <br>
   🧗 20+ projects on Flutter <br>
