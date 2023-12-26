@@ -15,7 +15,7 @@
 
 I prefer working with:
 <ul role="list">
-  <li list-style-type="✔️">riverpod</li>
+  <li style = "list-style-type="✔️"">riverpod</li>
   <li data-icon="✔️">go router</li>
   <li data-icon="✔️">auto router</li>
   <li data-icon="✔️">freezed</li>
