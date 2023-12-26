@@ -39,3 +39,44 @@ FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asg1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/angelina-gromova-b3ba71224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@pandaMob)  
 
+
+
+------------------------------------------------------------------------------------
+
+<h1> Привет 👋, меня зовут Ангелина </h1>
+<h2> Я являюсь Middle Flutter разработчиком </h2>
+
+<br>
+
+<h3>Обо мне</h3>
+  👱‍♀️ 3 года пишу на Flutter 
+  📱 1 год разрабатывала на iOS/Swift <br>
+  🧗 20+ проектов на Flutter <br>
+  📙 Фанат дядюшки Боба <br>
+  📖 Постоянно обучаюсь new <br>
+
+
+<h3>Я предпочитаю рабоать с:</h3>
+✔️ riverpod <br>
+  ✔️ go router <br>
+  ✔️ auto router <br>
+  ✔️ freezed <br>
+  ✔️ json serializable <br>
+  ✔️ mockito / mocktail <br>
+  ✔️ clean architecture <br>
+<br>
+🔭 Мой главный принцип - создавать недорогие и качественные приложения, которые помогут клиенту и его бизнесу.
+
+<h3>Навыки и знания</h3>
+FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
+
+<h3>Контакты</h3>
+❓ Свяжитесь со мной, если у вас есть вопросы по разработке мобильных приложений. Буду рада помочь!<br>
+✉️ Напишите в  <a href="https://t.me/pandaMob">Telegram</a><br>
+📬 Также можете отправить письмо: <a href="mailto:mobilepandasstudio@gmail.com">mobilepandasstudio@gmail.com</a> <br>
+<br>
+<br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asg1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/angelina-gromova-b3ba71224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@pandaMob)  
+
+
