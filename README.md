@@ -3,6 +3,6 @@
 ### :woman_technologist: About Me :
 - Flutter developer
 - 3 years experience 🥉
-- 30+ Flutter projects 
+- 30+ Flutter projects 	&#127793;
 - Freelancer ☘️
 - Started as Swift developer 👩‍💻
