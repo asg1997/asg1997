@@ -1,12 +1,19 @@
-<h2> Hi there! <br>I'm Angelina </h2>
+### Hi there 👋, My name is Angelina
+#### I am freelance software developer for Flutter
+![I am freelance software developer for Flutter](https://images.unsplash.com/photo-1564865878688-9a244444042a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-### 💪 : About Me :
-- Software Developer for Flutter 👩‍💻
-- 4 years experience 🥉
-- 30+ Flutter projects 🧗‍♀️
-- Freelancer 🍏
+I have 4 years of experience in commercial mobile application development. 
+I've done 20+ projects on Flutter. 
 
-### 💪 : Contacts :
-- telegram: @pandaMob
+I was a Swift developer in the past. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asg1997)](https://github.com/anuraghazra/github-readme-stats)
+I am currently exploring approaches that will allow me to create high-quality applications that will help businesses make more profit with less cost.
+
+Skills: FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
+
+- 💬 Ask me about anything related to mobile development. I'd be glad to help! 
+- 📫 How to reach me: tg @pandaMob 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asg1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/angelina-gromova-b3ba71224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@pandaMob)  
+
