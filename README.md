@@ -41,7 +41,7 @@ FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
   📱 1 год разрабатывала на iOS/Swift <br>
   🧗 20+ проектов на Flutter <br>
   📙 Фанат дядюшки Боба <br>
-  📖 Постоянно обучаюсь new <br>
+  📖 Постоянно обучаюсь <br>
 
 
 <h3>Я предпочитаю рабоать с:</h3>
