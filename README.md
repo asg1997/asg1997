@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Angelina
-#### I am freelance Middle Flutter developer 
+<h1> Hi there 👋, My name is Angelina </h1>
+<h2> I am freelance Middle Flutter developer </h2>
 <p align="center">
   <img src="av-2.jpeg" width="350" title="hover text">
 </p>
