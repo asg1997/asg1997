@@ -7,7 +7,7 @@
 
 <br>
 <ul role="list">
-  <li data-icon="👩‍💻">3 yrs of Flutter experience (3yrs - Flutter + iOS - 1yr). </li>
+  <li list-style-type="👩‍💻">3 yrs of Flutter experience (3yrs - Flutter + iOS - 1yr). </li>
   <li data-icon="📱">1 yr of iOS/Swift</li>
   <li data-icon="🧗">20+ projects on Flutter</li>  
 </ul>
@@ -15,7 +15,7 @@
 
 I prefer working with:
 <ul role="list">
-  <li data-icon="✔️">riverpod</li>
+  <li list-style-type="✔️">riverpod</li>
   <li data-icon="✔️">go router</li>
   <li data-icon="✔️">auto router</li>
   <li data-icon="✔️">freezed</li>
