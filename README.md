@@ -7,11 +7,11 @@
 
 <br>
 
-  👩‍💻 3 yrs of Flutter experience <br>
+  👱‍♀️ 3 yrs of Flutter experience
   📱 1 yr of iOS/Swift <br>
   🧗 20+ projects on Flutter <br>
   📙 Uncle Bob fan <br>
-  📚 Constantly learning new <br>
+  📖 Constantly learning new <br>
 
 
 I prefer working with:
