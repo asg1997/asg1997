@@ -29,7 +29,7 @@
 <h3>Skills</h3>
 FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 
-
+<h3>Help info</h3>
 - ❓ Ask me about anything related to mobile development. I'd be glad to help! 
 - ✉️ How to reach me: tg @pandaMob
 - 📬 You can also mail me: <a href="mailto:mobilepandasstudio@gmail.com">mobilepandasstudio@gmail.com</a> 
