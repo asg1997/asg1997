@@ -2,7 +2,7 @@
 <h2> I am freelance Middle Flutter developer </h2>
 
 <h3>About me</h3>
-  👱‍♀️ 4 yrs of Flutter experience
+  👱‍♀️ 5 yrs of Flutter experience
   📱 1 yr of iOS/Swift <br>
   🧗 20+ projects on Flutter <br>
   📙 Uncle Bob fan <br>
