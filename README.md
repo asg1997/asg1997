@@ -4,7 +4,7 @@
 <h3>About me</h3>
   👱‍♀️ 5 yrs of Flutter experience
   📱 1 yr of iOS/Swift <br>
-  🧗 20+ projects on Flutter <br>
+  🧗 40+ projects on Flutter <br>
   📙 Uncle Bob fan <br>
   📖 Constantly learning new <br>
 
@@ -37,9 +37,9 @@ FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 <h2> Я являюсь Middle Flutter разработчиком </h2>
 
 <h3>Обо мне</h3>
-  👱‍♀️ 3 года пишу на Flutter 
+  👱‍♀️ 5 лет пишу на Flutter 
   📱 1 год разрабатывала на iOS/Swift <br>
-  🧗 20+ проектов на Flutter <br>
+  🧗 40+ проектов на Flutter <br>
   📙 Фанат дядюшки Боба <br>
   📖 Постоянно обучаюсь <br>
 
