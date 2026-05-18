@@ -60,7 +60,7 @@ FLUTTER / DART / FIREBASE / RIVERPOD / BLOC / SOLID / JS / HTML / CSS
 
 <h3>Контакты</h3>
 ❓ Свяжитесь со мной, если у вас есть вопросы по разработке мобильных приложений. Буду рада помочь!<br>
-✉️ Напишите в  <a href="https://t.me/pandaMob">Telegram</a><br>
+✉️ Напишите в  <a href="https://t.me/flutter_mob_app">Telegram</a><br>
 📬 Также можете отправить письмо: <a href="mailto:mobilepandasstudio@gmail.com">mobilepandasstudio@gmail.com</a> <br>
 <br>
 <br>
